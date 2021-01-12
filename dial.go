@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"nhooyr.io/websocket/internal/errd"
+	"github.com/dcam0050/websocket/internal/errd"
 )
 
 // DialOptions represents Dial's options.

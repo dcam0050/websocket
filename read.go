@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"nhooyr.io/websocket/internal/errd"
-	"nhooyr.io/websocket/internal/xsync"
+	"github.com/dcam0050/websocket/internal/errd"
+	"github.com/dcam0050/websocket/internal/xsync"
 )
 
 // Reader reads from the connection until until there is a WebSocket
