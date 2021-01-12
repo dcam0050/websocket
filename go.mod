@@ -1,4 +1,4 @@
-module nhooyr.io/websocket
+module dcam0050/websocket
 
 go 1.13
 
