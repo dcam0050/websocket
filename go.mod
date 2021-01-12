@@ -1,4 +1,4 @@
-module dcam0050/websocket
+module github.com/dcam0050/websocket
 
 go 1.13
 
